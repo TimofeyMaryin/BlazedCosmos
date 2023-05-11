@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525251413803",
+    "project_id": "blazedcosmos",
+    "storage_bucket": "blazedcosmos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525251413803:android:41effcb9f29ff998b6a76e",
+        "android_client_info": {
+          "package_name": "com.chvanova.blazedcosmos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525251413803-lvn0viinm3dim82v8ur18slltctk53ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtYg2XrLt4weQ1IVZa8nV5DXBkhLjqB4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525251413803-lvn0viinm3dim82v8ur18slltctk53ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

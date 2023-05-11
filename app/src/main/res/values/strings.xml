@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blazed Cosmos</string>
+    <string name="play_with_a_friend">Play with a friend</string>
+    <string name="play_with_a_comp">play_with_a_comp</string>
+    <string name="sound_on">sound_on</string>
+    <string name="field">field</string>
+    <dimen name="ball_size">20dp</dimen>
+
+</resources>
